@@ -8,3 +8,6 @@ Pueden hacer lo que quieran...
 
 ## Nueva nota
 Cambios maravillosos
+
+## Nota nueva
+Otro cambio
